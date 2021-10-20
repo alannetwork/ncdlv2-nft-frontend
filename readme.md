@@ -4,7 +4,7 @@ Done for NCD lv 2 - 1 day - Bootcamp on 20/oct/2021.
 
 This frontend interacts with NFT rust contract and allows to:
 - Recover metadata of NFT
-- Login in NEAR Wallet
+- Login/logout in NEAR Wallet
 - Recover my NFT's
 - Do call for minting a new NFT
 
